@@ -23,9 +23,10 @@ do
     System.Console.WriteLine($"Monster was damaged and lost {atack} health and now has {monstro} health.");
     if (monstro <= 0) continue;
 
-    int atackMonstro = gerador.Next(1, 11);
-    hero -= atackMonstro;
-    System.Console.WriteLine($"Hero was damaged and lost {atackMonstro} health and now has {hero} health.");
+    atack = gerador.Next(1, 11);
+
+    hero -= atack;
+    System.Console.WriteLine($"Hero was damaged and lost {atack} health and now has {hero} health.");
 
 
 } while (hero >= 0 && monstro >= 0);
