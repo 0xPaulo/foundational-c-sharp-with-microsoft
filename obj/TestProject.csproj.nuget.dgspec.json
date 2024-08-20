@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "c:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\0xPaulo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\0xPaulo\\code\\CS\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0xPaulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
